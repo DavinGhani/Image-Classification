@@ -32,7 +32,7 @@ Follow the steps below to get started with this project.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/DavinGhani/Image-Classification
 cd project-name
 ```
 
